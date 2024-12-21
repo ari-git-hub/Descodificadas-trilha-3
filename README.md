@@ -26,7 +26,7 @@ This repository contains an age calculator app built using HTML, CSS, and JavaSc
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/age-calculator.git
+git clone https://github.com/ari-git-hub/age-calculator.git
 cd age-calculator
 ```
 
